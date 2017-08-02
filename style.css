@@ -1,0 +1,6 @@
+/*CSS for CsViewer Plugin*/
+table.server_data { width:100%; max-width: 280px; float:left; margin: 10px; font-family: Arial, Helvetica, sans-serif; font-size: 12px; }
+td.center { text-align: center; }
+table.server_data td { border-right: 1px dotted #ccc; border-bottom: 1px dotted #ccc; padding: 4px 2px 4px 10px; }
+table.server_data td.last { border-right: none; }
+table.server_data td.strong { width: 100px; }
